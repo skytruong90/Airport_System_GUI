@@ -1,5 +1,5 @@
 # Title: Airport System GUI
-### I worked on this by myself anc the programming language I used is Java. 
+### I worked on this by myself and the programming language I used is Java. 
 
 ## How to install:
 1. Clone the repository: https://github.com/skytruong90/Airport_System_GUI.git
